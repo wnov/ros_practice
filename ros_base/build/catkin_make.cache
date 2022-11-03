@@ -1,0 +1,2 @@
+july_listen:july_msgs:july_say
+-DCATKIN_DEVEL_PREFIX=/home/wn/codes/cpp/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wn/codes/cpp/catkin_ws/install -G Unix Makefiles

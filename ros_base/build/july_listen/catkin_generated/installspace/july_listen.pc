@@ -1,0 +1,8 @@
+prefix=/home/wn/codes/cpp/catkin_ws/install
+
+Name: july_listen
+Description: Description of july_listen
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs july_msgs
